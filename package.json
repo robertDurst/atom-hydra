@@ -1,0 +1,54 @@
+{
+  "_from": "https://www.atom.io/api/packages/atom-hydra/versions/0.2.14/tarball",
+  "_id": "atom-hydra@0.2.14",
+  "_inBundle": false,
+  "_integrity": "sha512-/Tq1zNJcIr6blXjJmelPz9ZIqHUGi3HkrRTWaa2Xn5n/TAi5P8IcNRIylCYiQGCTsICiZHBLvSQyIxvtDXEQ4w==",
+  "_location": "/atom-hydra",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://www.atom.io/api/packages/atom-hydra/versions/0.2.14/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/atom-hydra/versions/0.2.14/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/atom-hydra/versions/0.2.14/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/atom-hydra/versions/0.2.14/tarball"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://www.atom.io/api/packages/atom-hydra/versions/0.2.14/tarball",
+  "_shasum": "5b199f098a177167e3661ff261dc74af4c109d93",
+  "_spec": "https://www.atom.io/api/packages/atom-hydra/versions/0.2.14/tarball",
+  "_where": "C:\\Users\\19254\\AppData\\Local\\Temp\\apm-install-dir-12036-13892-141e78l.hlze",
+  "activationCommands": {
+    "atom-workspace": "atom-hydra:toggle"
+  },
+  "bugs": {
+    "url": "https://github.com/ojack/atom-hydra/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "atom-message-panel": "^1.3.0",
+    "dgram": "^1.0.1",
+    "hydra-synth": "^1.0.27",
+    "is-image": "^2.0.0",
+    "meyda": "^4.1.3",
+    "osc-min": "^1.1.1",
+    "p5": "^0.6.1"
+  },
+  "deprecated": false,
+  "description": "Live coding hydra from within atom",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/ojack/atom-hydra#readme",
+  "keywords": [],
+  "license": "MIT",
+  "main": "./lib/atom-hydra",
+  "name": "atom-hydra",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ojack/atom-hydra.git"
+  },
+  "version": "0.2.14"
+}
